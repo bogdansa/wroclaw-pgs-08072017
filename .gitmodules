@@ -1,0 +1,3 @@
+[submodule "dotnetcore-templates"]
+	path = dotnetcore-templates
+	url = git@github.com:mfranc-workshop/dotnetcore-templates.git

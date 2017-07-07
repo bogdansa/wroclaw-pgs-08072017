@@ -1,3 +1,6 @@
 [submodule "dotnetcore-templates"]
 	path = dotnetcore-templates
 	url = git@github.com:mfranc-workshop/dotnetcore-templates.git
+[submodule "monolithic-shop-core"]
+	path = monolithic-shop-core
+	url = git@github.com:mfranc-workshop/monolithic-shop-core.git
